@@ -1,6 +1,10 @@
 # Contact
 Contact Message Over Telegram
 
+# Install
+Make `npm install` and `node index.js` or `nodemon`
+
 # COMINT SOON
 Contact Message over Email
-Contacts on right site
+Contact on right site in Config
+DE and EN
