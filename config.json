@@ -1,0 +1,47 @@
+{
+	"selection":{
+		"input":{
+			"firstname":true,
+			"lastname":true,
+			"email":true
+		},
+		"contact":{
+			"firstname":true,
+			"lastname":true,
+			"email":true,
+			"phone_numbers":{
+				"mobilephone_number":true,
+				"house_phone_number":true,
+				"fax":true
+			},
+			"address":{
+				"street":true,
+				"house_number":true,
+				"city":true
+			},
+			"bio":true
+		}
+	},
+
+
+	"output":{
+		"telegramToken":"176677895:AAEsY_pxsCo9q1WJjQW0_np_-GskgAjDneI",
+		"chatId":"96039855"
+	},
+	"contact":{
+		"firstname":"Momme",
+		"lastname":"Jürgensen",
+		"email":"momme@juergensen.me",
+		"phone_numbers":{
+			"mobilephone_number":"my mobilephone number",
+			"house_phone_number":"my house phone number",
+			"fax":"my fax number"
+		},
+		"address":{
+			"street":"street",
+			"house_number":"house_number",
+			"city":"city"
+		},
+		"bio":"This is the bio"
+	}
+}

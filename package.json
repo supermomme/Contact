@@ -1,0 +1,22 @@
+{
+  "name": "kontaktOverTelegram",
+  "version": "0.0.0",
+  "description": "Your Kontakts over Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Telegram",
+    "Kontakt",
+    "Contakt"
+  ],
+  "author": "Momme Jürgensen",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.3",
+    "socket.io": "~1.3.7",
+    "fs": "0.0.2",
+    "node-telegram-bot-api": "~0.15.0"
+  }
+}
